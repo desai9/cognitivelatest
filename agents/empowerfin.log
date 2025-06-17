@@ -1,0 +1,6 @@
+2025-06-17 18:54:14,878 - root - INFO - Agent Orchestrator started
+2025-06-17 18:54:14,878 - root - INFO - Orchestrator Service started
+2025-06-17 18:54:14,879 - root - INFO - Agent DataProcessor registered with capabilities: ['process_file', 'validate_data', 'categorize_transactions']
+2025-06-17 18:54:14,880 - root - INFO - Agent HealthCalculator registered with capabilities: ['calculate_health', 'update_metrics', 'get_metrics']
+2025-06-17 18:54:14,882 - root - INFO - Agent ConversationalAI registered with capabilities: ['chat', 'analyze_emotion', 'generate_advice']
+2025-06-17 18:54:14,883 - root - INFO - All agents registered successfully
